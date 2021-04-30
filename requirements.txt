@@ -6,4 +6,4 @@ jdcal==1.4.1
 openpyxl==3.0.2
 pyshorteners==0.6.1
 requests==2.22.0
-urllib3==1.25.7
+urllib3==1.25.8
